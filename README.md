@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/exurd/exurd/master/pics/matrix.gif)
 
-I am now a Arctic Code Vault Contributor for exurd/Minecraft-Sounds-Replacer. All it does is replace sounds using a batch script why is that so important to archi--
+I have "contributed" to the Arctic Code Vault for exurd/Minecraft-Sounds-Replacer. All it does is replace sounds using a batch script why is that so important to archi--
 
 ---
 
