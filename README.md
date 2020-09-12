@@ -29,3 +29,4 @@ I have "contributed" to the Arctic Code Vault for exurd/Minecraft-Sounds-Replace
 ![](https://raw.githubusercontent.com/exurd/exurd/master/pics/stewie.gif)
 ![](https://raw.githubusercontent.com/exurd/exurd/master/pics/nut.gif)
 ![](https://raw.githubusercontent.com/exurd/exurd/master/pics/paprika.gif)
+![](https://raw.githubusercontent.com/exurd/exurd/master/pics/sonc.gif)
