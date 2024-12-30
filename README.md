@@ -3,9 +3,10 @@
 [![exurd's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=exurd&show_icons=true&cache_seconds=86400&theme=dark#gh-dark-mode-only)](.#gh-dark-mode-only)
 [![exurd's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=exurd&show_icons=true&cache_seconds=86400&theme=default#gh-light-mode-only)](.#gh-light-mode-only)
 
-* [Roblox MetaGamerScore Leaderboard](https://github.com/exurd/roblox_mgs_leaderboard) (GitHub Actions, Python)
-* [Dumb Badge(s) Remover](https://github.com/exurd/DBR) (Python)
-* [YouTube Into The Archive](https://github.com/exurd/YITA) (Chrome Extension)
+* [alcubierre](https://github.com/exurd/alcubierre) | A Roblox Badge-to-Badge Place Teleporter (Python)
+* [Roblox MetaGamerScore Leaderboard](https://github.com/exurd/roblox_mgs_leaderboard) | JSON files of MGS Roblox leaderboard(s) (GitHub Actions, Python)
+* [Dumb Badge(s) Remover](https://github.com/exurd/DBR) | Module to batch remove Roblox Player Badges (Python)
+* [YouTube Into The Archive](https://github.com/exurd/YITA) | Checks if a YT video is on Internet Archive (Chrome Extension)
 
 <br>
 <p align="left">
