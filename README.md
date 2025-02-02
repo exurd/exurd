@@ -5,7 +5,7 @@
 
 * [alcubierre](https://github.com/exurd/alcubierre) | A Roblox Badge-to-Badge Place Teleporter (Python)
 * [Roblox MetaGamerScore Leaderboard](https://github.com/exurd/roblox_mgs_leaderboard) | JSON files of MGS Roblox leaderboard(s) (GitHub Actions, Python)
-* [Dumb Badge(s) Remover](https://github.com/exurd/DBR) | Module to batch remove Roblox Player Badges (Python)
+* [Dumb Badge(s) Remover](https://github.com/exurd/DBR) | Batch remove Roblox Player Badges (Python)
 * [YouTube Into The Archive](https://github.com/exurd/YITA) | Checks if a YT video is on Internet Archive (Chrome Extension)
 
 <br>
