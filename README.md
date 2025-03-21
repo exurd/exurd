@@ -8,6 +8,7 @@
 * [Roblox MetaGamerScore Leaderboard](https://github.com/exurd/roblox_mgs_leaderboard) | JSON files of MGS Roblox leaderboard(s) (GitHub Actions, Python)
 * [Dumb Badge(s) Remover](https://github.com/exurd/DBR) | Batch remove Roblox Player Badges (Python)
 * [TXT2WARC](https://github.com/exurd/TXT2WARC) | A text file to WARC pipeline for grab-site-docker (Python, Docker)
+* [roblox_wb_proxy](https://github.com/exurd/roblox_wb_proxy) | The Wayback Machine as a Roblox API proxy (Luau ModuleScript, Argon)
 * [YouTube Into The Archive](https://github.com/exurd/YITA) | Checks if a YT video is on Internet Archive (Chrome Extension)
 
 ## Gists
