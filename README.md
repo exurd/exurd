@@ -1,4 +1,4 @@
-# <img src="./gifs/exurd.gif" alt="exurd"/>
+# <img src="./gifs/exurd.gif" alt="exurd" style="width:50%; height:auto;"/>
 
 [![exurd's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=exurd&show_icons=true&cache_seconds=86400&theme=dark#gh-dark-mode-only)](.#gh-dark-mode-only)
 [![exurd's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=exurd&show_icons=true&cache_seconds=86400&theme=default#gh-light-mode-only)](.#gh-light-mode-only)
