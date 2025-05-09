@@ -19,6 +19,7 @@
 * [TXT2WARC](https://github.com/exurd/TXT2WARC) | A text file to WARC pipeline for grab-site-docker (Python, Docker)
 * [roblox_wb_proxy](https://github.com/exurd/roblox_wb_proxy) | The Wayback Machine as a Roblox API proxy (Luau ModuleScript, Argon)
 * [YouTube Into The Archive](https://github.com/exurd/YITA) | Checks if a YT video is on Internet Archive (Chrome Extension)
+* [roblox-assets-grab](https://github.com/ArchiveTeam/roblox-assets-grab) | Archive Team Warrior project saving 10,379,367 Roblox assets, 3.32 TiB of data (Lua 5.1)
 
 ## Gists
 * [stemsFromMIDI_BaWaMI.bat](https://gist.github.com/exurd/d986eb093388ec62b014b1145e0b9b4d) | Generate/convert a MIDI file to multiple stems from BaWaMI (Windows Batch)
