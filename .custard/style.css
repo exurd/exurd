@@ -57,6 +57,6 @@ Ariel Martín Pérez, Alexander Kondratenko. Distributed by velvetyne.fr. */
 
 h1 > span.p-name.vcard-fullname
 {
-  font-family: "Mourier";
+  font-family: "Mourier",-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
   font-size: 1em;
 }
