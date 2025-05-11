@@ -17,6 +17,7 @@
   animation: rotateAnimation 6s linear infinite;
 }
 
+
 #user-content-stamp {
   display: inline-block;
   vertical-align: middle;
@@ -40,4 +41,21 @@
 
 #upload-avatar-link > img {
   content: url("/exurd/exurd/raw/main/.custard/profile.jpg");
+}
+
+
+/* Mourier by Eric Mourier, with the contribution of Sébastien Hayez,
+Ariel Martín Pérez, Alexander Kondratenko. Distributed by velvetyne.fr. */
+@font-face {
+  font-family: 'Mourier';
+  src: url('/exurd/exurd/raw/main/.custard/Mourier-Regular.woff2') format('woff2'),
+      url('/exurd/exurd/raw/main/.custard/Mourier-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+h1 > span.p-name.vcard-fullname
+{
+  font-family: "Mourier";
 }
