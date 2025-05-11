@@ -22,6 +22,7 @@
 * [roblox-assets-grab](https://github.com/ArchiveTeam/roblox-assets-grab) | Archive Team Warrior project saving 10,379,367 Roblox assets, 3.32 TiB of data (Lua 5.1)
 
 ## Gists
+* [custard.user.js](https://gist.github.com/exurd/32f3e889c0f7b4433ee4d475bad9f573) | Custom GitHub profile CSS by creating `.custard/style.css` in your special repository. (Userscript)
 * [stemsFromMIDI_BaWaMI.bat](https://gist.github.com/exurd/d986eb093388ec62b014b1145e0b9b4d) | Generate/convert a MIDI file to multiple stems from BaWaMI (Windows Batch)
 * [Roblox_HighJump_WithGears.ahk](https://gist.github.com/exurd/55efbae38cb68d020c26e144078b0506) | Switching from a jump increase gear to a gravity changing gear mid-jump causes a massive height boost (Roblox, AutoHotKey)
 * [Roblox_QuickReset.ahk](https://gist.github.com/exurd/ad6a0fbf222e4b2c8f2b09d1ab61c8fc) | Quickly reset your character in games with no quick reset support (Roblox, AutoHotKey)
