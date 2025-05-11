@@ -39,7 +39,7 @@
   transform: translateY(-8px);
 }
 
-#upload-avatar-link > img {
+img.avatar-user.width-full {
   content: url("/exurd/exurd/raw/main/.custard/profile.jpg");
 }
 
