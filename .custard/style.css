@@ -37,3 +37,7 @@
   -webkit-transform: translateY(-8px);
   transform: translateY(-8px);
 }
+
+#upload-avatar-link > img {
+  content: url("/exurd/exurd/raw/main/.custard/profile.jpg");
+}
