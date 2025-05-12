@@ -83,7 +83,8 @@ h1 > span.p-name.vcard-fullname
     }
 }
 
-body > div.page-profile {
+body > div.logged-in.page-profile,
+body > div.logged-out.page-profile > div.application-main {
     background-image: var(--grid-url);
 }
 
