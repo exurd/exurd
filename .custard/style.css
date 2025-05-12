@@ -64,23 +64,23 @@ h1 > span.p-name.vcard-fullname
 
 /* animated background */
 [data-color-mode=light] {
-    --grid-url: url("https://raw.githubusercontent.com/exurd/exurd/main/.custard/anim_grid_light.apng");
+  --grid-url: url("https://raw.githubusercontent.com/exurd/exurd/main/.custard/anim_grid_light.apng");
 }
 
 [data-color-mode=dark] {
-    --grid-url: url("https://raw.githubusercontent.com/exurd/exurd/main/.custard/anim_grid_dark.apng");
+  --grid-url: url("https://raw.githubusercontent.com/exurd/exurd/main/.custard/anim_grid_dark.apng");
 }
 
 @media (prefers-color-scheme: light) {
-    [data-color-mode=auto] {
-        --grid-url: url("https://raw.githubusercontent.com/exurd/exurd/main/.custard/anim_grid_light.apng");
-    }
+  [data-color-mode=auto] {
+    --grid-url: url("https://raw.githubusercontent.com/exurd/exurd/main/.custard/anim_grid_light.apng");
+  }
 }
 
 @media (prefers-color-scheme: dark) {
-    [data-color-mode=auto] {
-        --grid-url: url("https://raw.githubusercontent.com/exurd/exurd/main/.custard/anim_grid_dark.apng");
-    }
+  [data-color-mode=auto] {
+    --grid-url: url("https://raw.githubusercontent.com/exurd/exurd/main/.custard/anim_grid_dark.apng");
+  }
 }
 
 body > div.logged-in.page-profile,
@@ -104,10 +104,10 @@ body > div.logged-out.page-profile > div.application-main::before {
 }
 
 #user-profile-frame > div > div:nth-child(3) > div {
-    background-color: var(--bgColor-default);
-    border-color: var(--borderColor-default);
-    border-radius: var(--borderRadius-medium);
-    border-style: solid;
-    border-width: var(--borderWidth-thin);
-    padding: var(--stack-padding-normal);
+  background-color: var(--bgColor-default);
+  border-color: var(--borderColor-default);
+  border-radius: var(--borderRadius-medium);
+  border-style: solid;
+  border-width: var(--borderWidth-thin);
+  padding: var(--stack-padding-normal);
 }
