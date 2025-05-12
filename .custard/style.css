@@ -60,3 +60,26 @@ h1 > span.p-name.vcard-fullname
   font-family: "Mourier",-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
   font-size: 1em;
 }
+
+
+/* animated background */
+[data-color-mode=light] {
+    --grid-url: url("https://raw.githubusercontent.com/exurd/exurd/main/.custard/anim_grid_light.apng");
+}
+
+[data-color-mode=dark] {
+    --grid-url: url("https://raw.githubusercontent.com/exurd/exurd/main/.custard/anim_grid_dark.apng");
+}
+
+body > div.page-profile {
+    background-image: var(--grid-url);
+}
+
+#user-profile-frame > div > div:nth-child(3) > div {
+    background-color: var(--bgColor-default);
+    border-color: var(--borderColor-default);
+    border-radius: var(--borderRadius-medium);
+    border-style: solid;
+    border-width: var(--borderWidth-thin);
+    padding: var(--stack-padding-normal);
+}
