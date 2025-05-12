@@ -40,7 +40,7 @@
 }
 
 img.avatar-user.width-full {
-  content: url("/exurd/exurd/raw/main/.custard/profile.jpg");
+  content: url("https://raw.githubusercontent.com/exurd/exurd/main/.custard/profile.jpg");
 }
 
 
@@ -48,8 +48,8 @@ img.avatar-user.width-full {
 Ariel Martín Pérez, Alexander Kondratenko. Distributed by velvetyne.fr. */
 @font-face {
   font-family: 'Mourier';
-  src: url('/exurd/exurd/raw/main/.custard/Mourier-Regular.woff2') format('woff2'),
-      url('/exurd/exurd/raw/main/.custard/Mourier-Regular.woff') format('woff');
+  src: url('https://raw.githubusercontent.com/exurd/exurd/main/.custard/Mourier-Regular.woff2') format('woff2'),
+      url('https://raw.githubusercontent.com/exurd/exurd/main/.custard/Mourier-Regular.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
