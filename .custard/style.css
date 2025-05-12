@@ -71,6 +71,18 @@ h1 > span.p-name.vcard-fullname
     --grid-url: url("https://raw.githubusercontent.com/exurd/exurd/main/.custard/anim_grid_dark.apng");
 }
 
+@media (prefers-color-scheme: light) {
+    [data-color-mode=auto] {
+        --grid-url: url("https://raw.githubusercontent.com/exurd/exurd/main/.custard/anim_grid_light.apng");
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    [data-color-mode=auto] {
+        --grid-url: url("https://raw.githubusercontent.com/exurd/exurd/main/.custard/anim_grid_dark.apng");
+    }
+}
+
 body > div.page-profile {
     background-image: var(--grid-url);
 }
