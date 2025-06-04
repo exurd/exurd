@@ -12,6 +12,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=exurd&show_icons=true&cache_seconds=86400&theme=default&hide_title=true" />
 </picture>
 
+## Things I'm working on
+* Going through the CS50x course
+* Completing Advent of Code 2015 (in Python)
+
 ## Projects
 * [alcubierre](https://github.com/exurd/alcubierre) | A Roblox Badge-to-Badge Place Teleporter (Python)
 * [Roblox MetaGamerScore Leaderboard](https://github.com/exurd/roblox_mgs_leaderboard) | JSON files of MGS Roblox leaderboard(s) (GitHub Actions, Python)
