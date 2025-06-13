@@ -12,7 +12,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=exurd&show_icons=true&cache_seconds=86400&theme=default&hide_title=true" />
 </picture>
 
-<picture>
+
+<!-- for some reason only the ableton icon appears when using <picture> -->
+<!-- <picture>
   <source
     srcset="https://skillicons.dev/icons?i=ableton,anaconda,apple,blender,css,docker,git,html,js,linux,lua,md,py,robloxstudio,vscode,windows&perline=8&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -22,7 +24,10 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://skillicons.dev/icons?i=ableton,anaconda,apple,blender,css,docker,git,html,js,linux,lua,md,py,robloxstudio,vscode,windows&perline=8" />
-</picture>
+</picture> -->
+
+[![Skill Icons Dark](https://skillicons.dev/icons?i=ableton,anaconda,apple,blender,css,docker,git,html,js,linux,lua,md,py,robloxstudio,vscode,windows&perline=8&theme=dark)](https://github.com/exurd#gh-dark-mode-only)
+[![Skill Icons Light](https://skillicons.dev/icons?i=ableton,anaconda,apple,blender,css,docker,git,html,js,linux,lua,md,py,robloxstudio,vscode,windows&perline=8&theme=light)](https://github.com/exurd#gh-light-mode-only)
 
 
 ## Things I'm working on
