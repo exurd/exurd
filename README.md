@@ -12,6 +12,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=exurd&show_icons=true&cache_seconds=86400&theme=default&hide_title=true" />
 </picture>
 
+<picture>
+  <source
+    srcset="https://skillicons.dev/icons?i=ableton,anaconda,apple,blender,css,docker,git,html,js,linux,lua,md,py,robloxstudio,vscode,windows&perline=8&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://skillicons.dev/icons?i=ableton,anaconda,apple,blender,css,docker,git,html,js,linux,lua,md,py,robloxstudio,vscode,windows&perline=8&theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://skillicons.dev/icons?i=ableton,anaconda,apple,blender,css,docker,git,html,js,linux,lua,md,py,robloxstudio,vscode,windows&perline=8" />
+</picture>
+
+
 ## Things I'm working on
 * Going through the CS50x course
 * Completing Advent of Code 2015 (in Python)
