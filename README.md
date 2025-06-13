@@ -33,16 +33,6 @@
 * [playrandommeme.py](https://gist.github.com/exurd/c116ece33194980a25241e800749bc00) | Plays a random meme after a random amount of time has passed (Python)
 
 <br>
-<p align="left">
-  <img id="stamp" src="./pics/abomasnow_by_marlenesstamps.png"/>
-  <img id="stamp" src="./pics/pythonstamp.png"/>
-  <img id="stamp" src="./pics/htmlstamp.png"/>
-<!-- The following image was created by Manhkbrady and is licensed under CC-BY-NC-SA-4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0) -->
-  <img id="stamp" src="./pics/vscodestamp.png"/>
-  <img id="stamp" src="./pics/robloxstudiostamp.png"/>
-</p>
-
-<br>
 
 <!-- bottom area -->
 <p align="right">
