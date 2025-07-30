@@ -50,11 +50,11 @@
 * [Roblox_QuickReset.ahk](https://gist.github.com/exurd/ad6a0fbf222e4b2c8f2b09d1ab61c8fc) | Quickly reset your character in games with no quick reset support (Roblox, AutoHotKey)
 * [stemsFromMIDI_BaWaMI.bat](https://gist.github.com/exurd/d986eb093388ec62b014b1145e0b9b4d) | Generate/convert a MIDI file to multiple stems from BaWaMI (Windows Batch)
 
-<br>
+<br><br>
 
 <!-- bottom area -->
 <p align="right">
-  <a href="https://therobogoose.tumblr.com/post/680748549996150784">
-    <img src="./pics/abomasnow_dead.png" title="Credit to @therobogoose on Tumblr!" style="image-rendering:smooth; width:50%; height:auto;"/>
+  <a href="https://www.youtube.com/watch?v=ZzR6ara8NTU">
+    <img src="./pics/abomasnow_raigtable.png" title="&quot;Segmentation fault (core dumped)&quot; mY ASS-" style="width:40%; height:auto;"/>
   </a>
 </p>
