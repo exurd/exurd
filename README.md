@@ -31,6 +31,8 @@
 
 
 ## Things I'm working on
+* My website
+* Preparing myself for a Computer Games Programming course
 * Going through the CS50x course
 * Completing Advent of Code 2015 (in Python)
 
