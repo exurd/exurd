@@ -30,11 +30,13 @@
 [![Skill Icons Light](https://skillicons.dev/icons?i=ableton,anaconda,apple,blender,css,docker,git,html,js,linux,lua,md,py,robloxstudio,vscode,windows&perline=8&theme=light)](https://github.com/exurd#gh-light-mode-only)
 
 
+<!--
 ## Things I'm working on
 * My website
 * Preparing myself for a Computer Games Programming course
 * Going through the CS50x course
 * Completing Advent of Code 2015 (in Python)
+-->
 
 ## Projects
 * [alcubierre](https://github.com/exurd/alcubierre) | A Roblox Badge-to-Badge Place Teleporter (Python)
