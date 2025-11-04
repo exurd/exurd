@@ -26,9 +26,10 @@
   <img src="https://skillicons.dev/icons?i=ableton,anaconda,apple,blender,css,docker,git,html,js,linux,lua,md,py,robloxstudio,vscode,windows&perline=8" />
 </picture> -->
 
+<!--
 [![Skill Icons Dark](https://skillicons.dev/icons?i=ableton,anaconda,apple,blender,css,docker,git,html,js,linux,lua,md,py,robloxstudio,vscode,windows&perline=8&theme=dark)](https://github.com/exurd#gh-dark-mode-only)
 [![Skill Icons Light](https://skillicons.dev/icons?i=ableton,anaconda,apple,blender,css,docker,git,html,js,linux,lua,md,py,robloxstudio,vscode,windows&perline=8&theme=light)](https://github.com/exurd#gh-light-mode-only)
-
+-->
 
 <!--
 ## Things I'm working on
