@@ -48,12 +48,15 @@
 * [TXT2WARC](https://github.com/exurd/TXT2WARC) | A text file to WARC pipeline for grab-site-docker (Python, Docker)
 * [YouTube Into The Archive](https://github.com/exurd/YITA) | Checks if a YT video is on Internet Archive (Chrome Extension)
 
-## Gists
+<details><summary>Gists</summary>
+
 * [custard.user.js](https://gist.github.com/exurd/32f3e889c0f7b4433ee4d475bad9f573) | Custom GitHub profile CSS by creating `.custard/style.css` in your special repository. (Userscript)
 * [playrandommeme.py](https://gist.github.com/exurd/c116ece33194980a25241e800749bc00) | Plays a random meme after a random amount of time has passed (Python)
 * [Roblox_HighJump_WithGears.ahk](https://gist.github.com/exurd/55efbae38cb68d020c26e144078b0506) | Switching from a jump increase gear to a gravity changing gear mid-jump causes a massive height boost (Roblox, AutoHotKey)
 * [Roblox_QuickReset.ahk](https://gist.github.com/exurd/ad6a0fbf222e4b2c8f2b09d1ab61c8fc) | Quickly reset your character in games with no quick reset support (Roblox, AutoHotKey)
 * [stemsFromMIDI_BaWaMI.bat](https://gist.github.com/exurd/d986eb093388ec62b014b1145e0b9b4d) | Generate/convert a MIDI file to multiple stems from BaWaMI (Windows Batch)
+
+</details>
 
 <br><br>
 
